@@ -410,6 +410,10 @@ cite img{
     border: 1px solid #e8e8e8;
 }
 
+.plan-box li{
+    text-align: left;
+}
+
 .plan-box div:first-child{
     background-color: #fcfcfc;
     border-top-left-radius: 5px;
